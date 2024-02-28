@@ -14,7 +14,7 @@ export const Header = () => {
    <header>
     <div className="logo">
       <img src={Logo} alt="Taskmate Logo" />
-      <span>Taskmate</span>
+      <span>Task Mate</span>
     </div>
 
     <div className="themeSelector">
